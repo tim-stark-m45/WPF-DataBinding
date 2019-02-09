@@ -1,0 +1,15 @@
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\bin\Debug\WpfApp(DataBinding).exe.config
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\bin\Debug\WpfApp(DataBinding).exe
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\bin\Debug\WpfApp(DataBinding).pdb
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding).csprojAssemblyReference.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\MainWindow.g.cs
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\App.g.cs
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding)_MarkupCompile.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding)_MarkupCompile.lref
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\MainWindow.baml
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding).g.resources
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp_DataBinding_.Properties.Resources.resources
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding).csproj.GenerateResource.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding).csproj.CoreCompileInputs.cache
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding).exe
+c:\users\agax_mn94\source\repos\WpfApp(DataBinding)\WpfApp(DataBinding)\obj\Debug\WpfApp(DataBinding).pdb
